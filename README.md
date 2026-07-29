@@ -1,4 +1,4 @@
-# Привет! Я Python Backend Developer 👋
+# Привет! Я backend-разработчик на Python 👋
 
 Разрабатываю backend-сервисы и интеграции на Python: проектирую API, работаю с PostgreSQL и Redis, организую фоновые задачи и устойчивое взаимодействие с внешними системами.
 
@@ -23,7 +23,7 @@
 - расчёт маржи и выявление проблемных SKU
 - FastAPI, PostgreSQL, Celery и Redis
 - загрузка себестоимости из CSV
-- web-dashboard и Telegram alerts
+- web-dashboard и mock Telegram-уведомления
 - Docker Compose, тесты и CI
 
 ### [RemnaWave VPN Orchestrator](https://github.com/Tikhovskoy/remnawave-vpn-orchestrator)
